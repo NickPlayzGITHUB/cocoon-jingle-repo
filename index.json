@@ -8,6 +8,10 @@
     {
       "game": "Kirby Planet Robobot",
       "file": "jingles/ds/KirbyPlanetRobobot.wav"
+    },
+    {
+      "game": "Sonic Rush",
+      "file": "jingles/ds/SonicRush.wav"
     }
   ]
 }
