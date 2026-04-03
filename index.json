@@ -4,6 +4,10 @@
     {
       "game": "Kirby Mass Attack",
       "file": "jingles/ds/KirbyMassAttack.wav"
+    },
+    {
+      "game": "Kirby Planet Robobot",
+      "file": "jingles/ds/KirbyPlanetRobobot.wav"
     }
   ]
 }
