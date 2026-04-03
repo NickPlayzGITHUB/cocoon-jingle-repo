@@ -1,13 +1,9 @@
 {
-  "name": "Nock's Jingle Repository",
+  "name": "nocks-cocoon-jingle-repo",
   "entries": [
     {
       "game": "Kirby Mass Attack",
       "file": "jingles/ds/KirbyMassAttack.wav"
-    },
-    {
-      "game": "Example Game 2",
-      "file": "jingles/example-game-2.mp3"
     }
   ]
 }
