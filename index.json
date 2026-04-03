@@ -1,9 +1,9 @@
 {
-  "name": "Example Jingle Pack",
+  "name": "Nock's Jingle Repository",
   "entries": [
     {
-      "game": "Example Game 1",
-      "file": "jingles/example-game-1.mp3"
+      "game": "Kirby Mass Attack",
+      "file": "jingles/ds/KirbyMassAttack.wav"
     },
     {
       "game": "Example Game 2",
