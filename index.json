@@ -12,6 +12,10 @@
     {
       "game": "Sonic Rush",
       "file": "jingles/ds/SonicRush.wav"
+    },
+    {
+      "game": "Sonic and the Black Knight",
+      "file": "jingles/wii/SonicBlackKnight.wav"
     }
   ]
 }
